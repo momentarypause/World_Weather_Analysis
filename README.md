@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of this project is to connect to Google APIs to create interactive maps to assist a customer in planning out a vacation according to specific weather preferences.
 
-## Included in this repository
+## Relevant Folders Included in this Repository
 
 ### Weather_Database Folder
 [Code](Weather_Database/Weather_Database.ipynb)  for randomly generating 2,000 random latitude and longitude coordinates, retrieving the nearest city, and gathering weather data about each. This dataframe is saved into a [CSV file](Weather_Database/WeatherPy_Database.csv).
